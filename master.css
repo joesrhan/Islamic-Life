@@ -6,7 +6,93 @@ h2 {
     color: rgb(39, 87, 78);
 }
 
+.E {
+    background-color: #7c16a1;
+    outline: 10px solid #7c16a1;
+    ;
+}
+
 div {
     background-color: white;
     padding: 20px;
 }
+
+.img_1 {
+    border: 10px solid rgb(255, 255, 255);
+    outline: 10px solid black;
+}
+
+.img_2 {
+    border: 10px solid rgb(255, 255, 255);
+    outline: 10px solid black;
+}
+
+.img_3 {
+    border: 10px solid rgb(255, 255, 255);
+    outline: 10px solid black;
+}
+
+.img_4 {
+    border: 10px solid rgb(255, 255, 255);
+    outline: 10px solid black;
+}
+
+.img_5 {
+    border: 10px solid rgb(255, 255, 255);
+    outline: 10px solid black;
+}
+
+.img_6 {
+    border: 10px solid rgb(255, 255, 255);
+    outline: 10px solid black;
+}
+
+.A {
+    background-color: rgb(34, 167, 197);
+}
+
+.B {
+    background-color: #3fcd59;
+}
+
+.C {
+    background-color: #8336c7;
+}
+
+.D {
+    background-color: rgba(240, 16, 16, 0.733);
+}
+
+/* 
+Target All Paragraph 
+*/
+
+
+/* .joe { */
+/* color: green; */
+/* } */
+
+/* div { */
+/* background-color: red; */
+/*Color Name*/
+/* background-color: rgb(255 255 255 / 50%); */
+/*Red Green Blue Alpha Channel */
+/* background-image: url("../imgs/ابن_تيمية.jpg"); */
+/* background-repeat: no-repeat; */
+/* background-attachment: fixed */
+/* background-position: left top; */
+/* background-size: contain; */
+
+/* Top Right Bottom Left */
+/* 10px 20px 10p 20px */
+/* padding: 10px 20px;  */
+/* margin: 10px; */
+/* width: 70%; */
+/* margin-left: auto; */
+/* margin-right: auto; */
+/* margin: auto; */
+/* border-width: 10px; */
+/* border-color: red; */
+/* border-style: solid; */
+/* border: 10px solid red; */
+/* } */
